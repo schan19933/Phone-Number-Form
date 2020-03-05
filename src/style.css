@@ -1,0 +1,9 @@
+.wrapper {
+  width: 600px;
+  font-size: 15px;
+  font-family: helvetica;
+  color: #e06666;
+  background: #f3f3f3ff;
+  padding: 0.25px 30px;
+  border-radius: 2em;
+}
